@@ -1,5 +1,5 @@
 # SUN TRACKING SOLAR PANEL 
- Create a means for solar panels to track the sun :)
+ Create a means for solar panels to track the sun :grin
 
 ## Table of Contents
 1. [Block Diagram](#block-diagram)
@@ -53,6 +53,7 @@ The AT89C51 is an age-old 8-bit microcontroller from the Atmel family. It works 
 
 ## Simulation
 [<img src="https://img.youtube.com/vi/hjItBgSOXT4/hqdefault.jpg" >](https://youtu.be/hjItBgSOXT4 "Video of simulation")
+**CLICK TO VIEW ON YOUTUBE**
 ## Links
 [Code](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/sun_tracking_code.asm)\
 [Simulation](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/sun_track_sim.pdsprj)
