@@ -52,7 +52,7 @@ The AT89C51 is an age-old 8-bit microcontroller from the Atmel family. It works 
 ![Logic](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/logic.jpg)
 
 ## Simulation
-[<img src="https://img.youtube.com/vi/hjItBgSOXT4/hqdefault.jpg" >](https://youtu.be/hjItBgSOXT4 "Video of simulation")
+[<img src="https://img.youtube.com/vi/hjItBgSOXT4/hqdefault.jpg" >](https://youtu.be/hjItBgSOXT4 "Video of simulation")\
 **CLICK TO VIEW ON YOUTUBE**
 ## Links
 [Code](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/sun_tracking_code.asm)\
