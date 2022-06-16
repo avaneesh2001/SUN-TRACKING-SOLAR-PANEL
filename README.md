@@ -9,7 +9,7 @@
 5. [Logic](#logic)
 6. [Video](#simulation)
 ## Block Diagram:
-![Block Diagram]()
+![Block Diagram](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/block_diagram.jpg)
 
 ## Components:
 - AT89C51- 8051 Microcontroller
@@ -49,10 +49,10 @@ The AT89C51 is an age-old 8-bit microcontroller from the Atmel family. It works 
 3. Repeat monitoring
 
 ## Logic
-![Logic]()
+![Logic](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/logic.jpg)
 
 ## Simulation
 
 ## Links
-[Code]()\
-[Simulation]()\
+[Code](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/sun_tracking_code.asm)\
+[Simulation](https://github.com/avaneesh2001/SUN-TRACKING-SOLAR-PANEL/blob/main/sun_track_sim.pdsprj)
