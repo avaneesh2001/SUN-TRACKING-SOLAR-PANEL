@@ -1,5 +1,5 @@
 # SUN TRACKING SOLAR PANEL 
- Create a means for solar panels to track the sun :grin
+ Create a means for solar panels to track the sun :grin:
 
 ## Table of Contents
 1. [Block Diagram](#block-diagram)
